@@ -1,6 +1,6 @@
 {
-  "active-version": "2.12.0",
-  "cli-version": "1.9.9",
+  "active-version": "2.23.3",
+  "cli-version": "1.10.0",
   "name": "www-dristi-life",
-  "running": "production"
+  "previous-version": "2.12.0"
 }
